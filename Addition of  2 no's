@@ -1,0 +1,5 @@
+# This prog. add's 2 no's and gives the result of addition as output
+a=input("enter first no")
+b=input("enter second no")
+result=int(a)+int(b)
+print(result)
